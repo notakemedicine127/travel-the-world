@@ -1,0 +1,7 @@
+#header {height:600px;background-image:url("我們這一家.jpg");background-repeat:no-repeat;}
+#nav{float:left; width:15%; height:1100px;background-color:lightyellow}
+ul{list-style-type:none;}
+li{font-style:20px}
+#article {float:right; width:85%; height:1100px; background-color:#ffffb3;}
+#footer {clear:both;height:200px;background-color: #ffaa80; text-align:center; color:#262673;}
+#title{position:absolute;right:120px;bottom:5px;}
